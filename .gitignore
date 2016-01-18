@@ -1,0 +1,36 @@
+#latex generated files
+*.log
+*.pdf
+*.tar.gz
+*.out
+*.aux
+*.bbl
+*.blg
+*.toc
+
+#LTSPICE raw data
+*.raw
+
+#libreoffice, gedit backupfiles
+*~
+*#
+
+#Kicad Backup files
+*-bak
+*.bak
+*_saved_*
+*.gbl
+*.gl2
+*.gl3
+*.gto
+*.gtp
+*.gtl
+*.gbs
+*.gbr
+*.gts
+*.gbo
+*.zip
+
+
+
+
